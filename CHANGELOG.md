@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.6](https://github.com/aifivem/ai-chat/compare/v0.1.5...v0.1.6) (2026-11-15)
+
+
+### Miscellaneous Chores
+
+* **web:** ship the Chromium 144 build, without the CEF 103 colour fallbacks, built on the bun runtime ([dc8e6b1](https://github.com/aifivem/ai-chat/commit/dc8e6b1624e772a45978efda4ded384c961c087b))
+
 ## [0.1.5](https://github.com/aifivem/ai-chat/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
