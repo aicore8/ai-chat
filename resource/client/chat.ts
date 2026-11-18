@@ -6,8 +6,8 @@ import {
   Keybind,
   loadLocaleTexts,
   onMembershipChange,
-} from "@aifivem/lib/client";
-import { NUI_LAYER } from "@aifivem/shared";
+} from "@aicore8/lib/client";
+import { NUI_LAYER } from "@aicore8/shared";
 import { Locale } from "common";
 import {
   ChatContent,

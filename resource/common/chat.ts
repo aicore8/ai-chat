@@ -6,7 +6,7 @@ import {
   readAccess,
   record,
   str,
-} from "@aifivem/lib/shared";
+} from "@aicore8/lib/shared";
 
 /** ai-chat's contracts: events, messages, suggestions, panel content. No natives. */
 

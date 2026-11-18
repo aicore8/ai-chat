@@ -1,5 +1,5 @@
-import { ACCESS_FIELDS, accessFields } from "@aifivem/lib/shared";
-import type { PanelSchema } from "@aifivem/shared";
+import { ACCESS_FIELDS, accessFields } from "@aicore8/lib/shared";
+import type { PanelSchema } from "@aicore8/shared";
 
 /** ai-chat's panel: message rules and the channels players write in. */
 export const chatSchema: PanelSchema = {

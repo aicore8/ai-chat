@@ -1,4 +1,4 @@
-import { AdminPanel } from "@aifivem/lib/server";
+import { AdminPanel } from "@aicore8/lib/server";
 import { ChatContent } from "common/chat";
 import { chatSchema } from "./schema";
 

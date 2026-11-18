@@ -1,4 +1,4 @@
-import { addCommand, aiLog, playersNear } from "@aifivem/lib/server";
+import { addCommand, aiLog, playersNear } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { EVENTS } from "common/chat";
 import { deliver } from "./router";
