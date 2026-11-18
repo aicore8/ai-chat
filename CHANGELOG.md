@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.7](https://github.com/aicore8/ai-chat/compare/v0.1.6...v0.1.7) (2026-11-18)
+
+
+### Miscellaneous Chores
+
+* rename aifivem to aicore8 (aicore8.com, github.com/aicore8, [@aicore8](https://github.com/aicore8) npm scope) ([807affd](https://github.com/aicore8/ai-chat/commit/807affd11ee53ca3ed22ae22f9adccdac84cd4a3))
+
 ## [0.1.6](https://github.com/aicore8/ai-chat/compare/v0.1.5...v0.1.6) (2026-11-15)
 
 
